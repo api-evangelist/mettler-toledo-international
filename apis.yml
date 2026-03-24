@@ -1,0 +1,7 @@
+aid: mettler-toledo-international
+url: https://raw.githubusercontent.com/api-evangelist/mettler-toledo-international/refs/heads/main/apis.yml
+modified: '2026-03-24'
+apis: []
+common:
+  - type: Website
+    url: https://www.mettler-toledo-international.com
